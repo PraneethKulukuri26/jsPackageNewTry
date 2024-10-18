@@ -1,0 +1,22 @@
+{
+  "name": "praneeh_new_try",
+  "version": "1.0.0",
+  "description": "Try to create new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraneethKulukuri26/jsPackageNewTry.git"
+  },
+  "keywords": [
+    "praneethNewTry"
+  ],
+  "author": "praneeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraneethKulukuri26/jsPackageNewTry/issues"
+  },
+  "homepage": "https://github.com/PraneethKulukuri26/jsPackageNewTry#readme"
+}
